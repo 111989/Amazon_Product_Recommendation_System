@@ -66,7 +66,7 @@ Following are the visualizations for the attributes:
 
 1.	Average Rating:
 
-<img src="https://github.com/111989/Data-Science/blob/main/Advanced%20Data%20Mining/images/average-rating.png"/>
+<img src=images/average-rating.png/>
 
 The average ratings for all the products given as 0 were removed when conducting the regression model, with the assumption that those were the cases when no rating was found, which are outliers for the data.
 
