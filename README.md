@@ -72,7 +72,7 @@ The average ratings for all the products given as 0 were removed when conducting
 
 2. Degree Centrality:
 
-<img src="https://github.com/111989/Data-Science/blob/main/Advanced%20Data%20Mining/images/degree-centrality.png"/>
+<img src="images/degree-centrality.png"/>
 
 It is clearly visible that extremely less number of nodes have higher than 0 degree centrality, which means that these nodes are more centred as compared to most of the products.
 
@@ -80,7 +80,7 @@ These are the kind of products that we marketing department need to look out for
 
 3. Clustering Coefficient:
 
-<img src="https://github.com/111989/Data-Science/blob/main/Advanced%20Data%20Mining/images/clustering-coefficient.png"/>
+<img src="images/clustering-coefficient.png"/>
 
 A lot of products in the amazon co-purchase dataset have a clustering coefficient higher than 0.2 (judging by the area under the curve, almost 1/6th products), Depending on the clustering coefficient, priority queue for marketing/sales and advertising of products can be built, which is necessary to improve engagements via inorganic growth.
 
@@ -109,35 +109,35 @@ K-means clustering was conducted on 200 eigenvectors, and as expected, most of t
 
 **A) Summary Statistics:**
 
-<img src="https://github.com/111989/Data-Science/blob/main/Advanced%20Data%20Mining/images/summary-statistics.png"/>
+<img src="images/summary-statistics.png"/>
 
 **B) Regression Models:**
 
 I) Linear Regression:
 
-<img src="https://github.com/111989/Data-Science/blob/main/Advanced%20Data%20Mining/images/proj-linear-reg.png"/>
+<img src="images/proj-linear-reg.png"/>
 
 II) Ridge Regression:
 
-<img src="https://github.com/111989/Data-Science/blob/main/Advanced%20Data%20Mining/images/proj-ridge-reg.png"/>
+<img src="images/proj-ridge-reg.png"/>
 
 III) Lasso Regression:
 
-<img src="https://github.com/111989/Data-Science/blob/main/Advanced%20Data%20Mining/images/proj-lasso-reg.png"/>
+<img src="images/proj-lasso-reg.png"/>
 
 The experiment showed that increase in the value of regularization term is causing a decrease in the R2 value.
 
-Less regularization: <img src="https://github.com/111989/Data-Science/blob/main/Advanced%20Data%20Mining/images/less-reg.png"/>
+Less regularization: <img src="images/less-reg.png"/>
 
-More regularization: <img src="https://github.com/111989/Data-Science/blob/main/Advanced%20Data%20Mining/images/more-reg.png"/>
+More regularization: <img src="images/more-reg.png"/>
 
 **Products with highest clustering coefficient:**
 
-<img src="https://github.com/111989/Data-Science/blob/main/Advanced%20Data%20Mining/images/clustering-high.png"/>
+<img src="images/clustering-high.png"/>
 
 **Products with highest degree centrality:**
 
-<img src="https://github.com/111989/Data-Science/blob/main/Advanced%20Data%20Mining/images/centrality-high.png"/>
+<img src="images/centrality-high.png"/>
 
 ### Conclusion
 
